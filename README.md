@@ -1,1 +1,1 @@
-# Python_lib
+# Biblioteca de Python (conteudo inicial e avançado)
